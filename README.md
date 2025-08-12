@@ -12,9 +12,9 @@
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
   <a href="https://github.com/Abdurazzakov Behruz">
     <p align="left">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otajonbozorboyev&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=otajonbozorboyev&theme=github_dark">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurazzakovbehruz&theme=github_dark&utcOffset=5"><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekhaka111&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bekhaka111&theme=github_dark">
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bekhaka111&theme=github_dark&utcOffset=5"><br>
     </p>
   </a> 
 </details>
