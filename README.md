@@ -1,5 +1,5 @@
 # About me
-<p><h2>👋🏻Hey! I'm Otajon Bozorboyev. I'm Backend developer.</h2></p>
+<p><h2>👋🏻Hey! I'm Abdurazzakov Behruz. I'm Backend developer.</h2></p>
 
 - Telegram:                           [Abdurazzakov Behruz](https://t.me/desto_07)
 ## Main tools
